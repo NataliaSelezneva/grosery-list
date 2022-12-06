@@ -1,0 +1,63 @@
+body{
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Solway', serif;
+  background-image: url(fon2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.container{
+  width: 400px;
+  background-color: white;
+  min-height: 90vh;
+  margin: 25px auto;
+  border: 5px solid #eb7628;
+  background-color: rgba(51, 174, 51, 0.8);
+}
+.crossed{
+  text-decoration: line-through 1px rgb(83, 86, 83);
+  background-color: #eb7628;
+  font-size: 15px;
+}
+.imageAdd{
+  border-radius: 120px;
+}
+ul, li {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+}
+.btnAdd{
+  width: 80%;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  font-family: 'Libre Baskerville', serif;
+  background-color: rgba(23, 51, 23, 0.9);
+  font-size: 20px;
+  color: #eb7628;
+}
+.btnDelete{
+  width: 80%;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  font-family: 'Libre Baskerville', serif;
+  background-color: #eb7628;
+  font-size: 20px;
+  color: #173317e6;
+}
+.inputStyle{
+  display: flex;
+  justify-content: center;
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Libre Baskerville', serif;
+  border: none;
+}
+.blockStyle{
+  display: flex;
+  justify-content: center;
+  color: white;
+}
