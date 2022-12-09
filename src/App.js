@@ -12,7 +12,7 @@ function App() {
         {/* <img src={image} alt='grosery' width='100px'  /> */}
 
       <div className='blockStyle'>
-        <h1>Grosery List</h1>
+        <h1>Grocery List</h1>
       </div>
 
       </div>
